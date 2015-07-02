@@ -16,5 +16,6 @@ This library has only two projects for now. <br/>
 * `get_posts_from_page(page_id, count)`
  * `page_id` is string which stands for ID of page object.
  * `count` is the number of posts you want to grab. For now, it's limited up to 250.
+
 ##License##
 GNU General Public License v2.0
