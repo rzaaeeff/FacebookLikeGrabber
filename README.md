@@ -17,5 +17,7 @@ This library has only two projects for now. <br/>
  * `page_id` is string which stands for ID of page object.
  * `count` is the number of posts you want to grab. For now, it's limited up to 250.
 
+If you want to find out page's ID, use this website: http://findmyfacebookid.com/
+
 ##License##
 GNU General Public License v2.0
