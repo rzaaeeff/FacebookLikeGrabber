@@ -11,7 +11,7 @@ for post in post_IDs:
   print grabber_object.get_likes_by_post_id(post)
 ```
 ##Reference##
-This library has only two projects for now. <br/>
+This library has only two functions for now. <br/>
 * `get_likes_by_post_id(post_id)` : `post_id` is string which stands for ID of post object. <br/>
 * `get_posts_from_page(page_id, count)`
  * `page_id` is string which stands for ID of page object.
