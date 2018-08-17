@@ -1,3 +1,6 @@
+Outdated. Project is no longer updated. 
+***
+
 ## Synopsis
 This library helps you to grab likes from any given post or photo. It can also grab ID of posts from page, for now number of maximum posts can be revealed is 250. It is beta version.
 
